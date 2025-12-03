@@ -1,6 +1,6 @@
 # 🏥 Patient Advocacy Operations Tracker
 
-A healthcare operations analytics project that simulates how a patient advocacy navigation lead would track backlog, responsiveness, and workload across their team. Built from scratch using a hand-crafted JSON schema, expanded with Python, and visualized in Power BI to answer the operational questions that guide staffing, prioritization, and escalation decisions.
+A healthcare operations analytics project that simulates how a patient advocacy navigation lead would track backlog, responsiveness, and workload across their team. Built from scratch using a hand crafted JSON schema, expanded with Python, and visualized in Power BI to answer the operational questions that guide staffing, prioritization, and escalation decisions.
 
 ---
 
@@ -17,10 +17,10 @@ This project was built to mirror the day-to-day analytics needs of a healthcare 
 ## 🔁 Project Workflow
 
 **1. Design the Data Model**  
-Started with a nested JSON schema representing advocacy cases and their interaction histories — capturing issue type, priority, timestamps, advocate assignments, and resolution status.
+Started with a nested JSON schema representing advocacy cases and their interaction histories, capturing issue type, priority, timestamps, advocate assignments, and resolution status.
 
 **2. Generate Realistic Synthetic Data**  
-Hand-wrote 4–5 realistic cases with 4–6 interactions each, then used Python to scale that seed into **~50 cases** with varied patterns across issue types, priorities, response times, and workloads.
+Hand wrote 4–5 realistic cases with 4–6 interactions each, then used Python to scale that seed into **~50 cases** with varied patterns across issue types, priorities, response times, and workloads.
 
 **3. Flatten and Engineer Metrics**  
 Converted the nested JSON into two analysis-ready tables:
