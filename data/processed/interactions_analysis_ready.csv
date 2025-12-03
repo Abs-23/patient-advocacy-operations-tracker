@@ -1,0 +1,158 @@
+interaction_id,timestamp,channel,interaction_type,advocate_id_at_time,notes,case_id,patient_id,advocate_id,opened_at,closed_at,status,issue_type,priority,reassigned_flag,reopen_count
+I-1001-1,2025-11-01T09:20:00,phone,initial_contact,A-001,Patient called about an unexpected charge on recent hospital bill.,C-1001,P-0501,A-001,2025-11-01T09:15:00,2025-11-05T14:40:00,closed,billing,high,0,0
+I-1001-2,2025-11-02T10:05:00,portal,follow_up,A-001,Advocate requested itemized statement from billing department and updated patient via portal message.,C-1001,P-0501,A-001,2025-11-01T09:15:00,2025-11-05T14:40:00,closed,billing,high,0,0
+I-1001-3,2025-11-04T16:30:00,phone,update,A-001,Explained corrected charges and confirmed partial adjustment with patient.,C-1001,P-0501,A-001,2025-11-01T09:15:00,2025-11-05T14:40:00,closed,billing,high,0,0
+I-1001-4,2025-11-05T14:30:00,phone,closure,A-001,Patient confirmed understanding of final bill and agreed to close the case.,C-1001,P-0501,A-001,2025-11-01T09:15:00,2025-11-05T14:40:00,closed,billing,high,0,0
+I-1002-1,2025-10-01T09:20:00,phone,initial_contact,A-002,Patient called about an unexpected charge on recent hospital bill.,C-1002,P-0502,A-002,2025-10-01T09:15:00,2025-10-05T14:40:00,closed,billing,high,0,0
+I-1002-2,2025-10-02T10:05:00,portal,follow_up,A-002,Advocate requested itemized statement from billing department and updated patient via portal message.,C-1002,P-0502,A-002,2025-10-01T09:15:00,2025-10-05T14:40:00,closed,billing,high,0,0
+I-1002-3,2025-10-04T16:30:00,phone,update,A-002,Explained corrected charges and confirmed partial adjustment with patient.,C-1002,P-0502,A-002,2025-10-01T09:15:00,2025-10-05T14:40:00,closed,billing,high,0,0
+I-1002-4,2025-10-05T14:30:00,phone,closure,A-002,Patient confirmed understanding of final bill and agreed to close the case.,C-1002,P-0502,A-002,2025-10-01T09:15:00,2025-10-05T14:40:00,closed,billing,high,0,0
+I-1003-1,2025-10-02T09:20:00,phone,initial_contact,A-003,Patient called about an unexpected charge on recent hospital bill.,C-1003,P-0503,A-003,2025-10-02T09:15:00,2025-10-06T14:40:00,closed,billing,high,0,0
+I-1003-2,2025-10-03T10:05:00,portal,follow_up,A-003,Advocate requested itemized statement from billing department and updated patient via portal message.,C-1003,P-0503,A-003,2025-10-02T09:15:00,2025-10-06T14:40:00,closed,billing,high,0,0
+I-1003-3,2025-10-04T16:30:00,phone,update,A-003,Explained corrected charges and confirmed partial adjustment with patient.,C-1003,P-0503,A-003,2025-10-02T09:15:00,2025-10-06T14:40:00,closed,billing,high,0,0
+I-1003-4,2025-10-06T14:30:00,phone,closure,A-003,Patient confirmed understanding of final bill and agreed to close the case.,C-1003,P-0503,A-003,2025-10-02T09:15:00,2025-10-06T14:40:00,closed,billing,high,0,0
+I-1004-1,2025-10-01T09:20:00,phone,initial_contact,A-004,Patient called about an unexpected charge on recent hospital bill.,C-1004,P-0504,A-004,2025-10-01T09:15:00,2025-10-05T14:40:00,closed,billing,high,0,0
+I-1004-2,2025-10-02T10:05:00,portal,follow_up,A-004,Advocate requested itemized statement from billing department and updated patient via portal message.,C-1004,P-0504,A-004,2025-10-01T09:15:00,2025-10-05T14:40:00,closed,billing,high,0,0
+I-1004-3,2025-10-04T16:30:00,phone,update,A-004,Explained corrected charges and confirmed partial adjustment with patient.,C-1004,P-0504,A-004,2025-10-01T09:15:00,2025-10-05T14:40:00,closed,billing,high,0,0
+I-1004-4,2025-10-05T14:30:00,phone,closure,A-004,Patient confirmed understanding of final bill and agreed to close the case.,C-1004,P-0504,A-004,2025-10-01T09:15:00,2025-10-05T14:40:00,closed,billing,high,0,0
+I-1005-1,2025-10-07T09:20:00,phone,initial_contact,A-005,Patient called about an unexpected charge on recent hospital bill.,C-1005,P-0505,A-005,2025-10-07T09:15:00,2025-10-09T14:40:00,closed,billing,medium,0,0
+I-1005-2,2025-10-08T10:05:00,portal,follow_up,A-005,Advocate requested itemized statement from billing department and updated patient via portal message.,C-1005,P-0505,A-005,2025-10-07T09:15:00,2025-10-09T14:40:00,closed,billing,medium,0,0
+I-1005-3,2025-10-08T16:30:00,phone,update,A-005,Explained corrected charges and confirmed partial adjustment with patient.,C-1005,P-0505,A-005,2025-10-07T09:15:00,2025-10-09T14:40:00,closed,billing,medium,0,0
+I-1005-4,2025-10-08T14:30:00,phone,closure,A-005,Patient confirmed understanding of final bill and agreed to close the case.,C-1005,P-0505,A-005,2025-10-07T09:15:00,2025-10-09T14:40:00,closed,billing,medium,0,0
+I-2001-1,2025-09-01T09:20:00,phone,initial_contact,A-101,Patient called about an unexpected charge on recent hospital bill.,C-2001,P-0511,A-101,2025-09-01T09:15:00,2025-09-05T14:40:00,closed,insurance_coverage,high,1,0
+I-2001-2,2025-09-02T10:05:00,portal,follow_up,A-101,Advocate requested itemized statement from billing department and updated patient via portal message.,C-2001,P-0511,A-101,2025-09-01T09:15:00,2025-09-05T14:40:00,closed,insurance_coverage,high,1,0
+I-2001-3,2025-09-04T16:30:00,email,update,A-102,Explained corrected charges and confirmed partial adjustment with patient via mail.,C-2001,P-0511,A-101,2025-09-01T09:15:00,2025-09-05T14:40:00,closed,insurance_coverage,high,1,0
+I-2001-4,2025-09-05T14:30:00,phone,closure,A-102,Patient confirmed understanding of final bill and agreed to close the case.,C-2001,P-0511,A-101,2025-09-01T09:15:00,2025-09-05T14:40:00,closed,insurance_coverage,high,1,0
+I-1002-1,2025-11-03T11:10:00,portal,initial_contact,A-004,Patient requested earlier appointment for post-surgery follow-up.,C-1002,P-0310,A-009,2025-11-03T11:05:00,,in_progress,scheduling,medium,1,1
+I-1002-2,2025-11-03T15:45:00,phone,follow_up,A-009,"New advocate introduced, confirmed appointment preferences and waitlist options.",C-1002,P-0310,A-009,2025-11-03T11:05:00,,in_progress,scheduling,medium,1,1
+I-1002-3,2025-11-05T09:20:00,sms,update,A-009,Notified patient about a tentative slot opening and pending confirmation.,C-1002,P-0310,A-009,2025-11-03T11:05:00,,in_progress,scheduling,medium,1,1
+I-1003-1,2025-10-28T14:15:00,phone,initial_contact,A-003,Patient reported denial of coverage for imaging study.,C-1003,P-0201,A-003,2025-10-28T14:10:00,2025-11-02T10:05:00,closed,insurance_coverage,urgent,0,0
+I-1003-2,2025-10-29T09:00:00,email,follow_up,A-003,Advocate requested denial letter and prior authorization details.,C-1003,P-0201,A-003,2025-10-28T14:10:00,2025-11-02T10:05:00,closed,insurance_coverage,urgent,0,0
+I-1003-3,2025-10-31T16:50:00,phone,escalation,A-003,Coordinated three-way call with insurer and clinic to review medical necessity.,C-1003,P-0201,A-003,2025-10-28T14:10:00,2025-11-02T10:05:00,closed,insurance_coverage,urgent,0,0
+I-1003-4,2025-11-02T09:45:00,portal,closure,A-003,Patient informed that coverage was approved on appeal and agreed to close case.,C-1003,P-0201,A-003,2025-10-28T14:10:00,2025-11-02T10:05:00,closed,insurance_coverage,urgent,0,0
+I-1004-1,2025-11-06T08:35:00,portal,initial_contact,A-011,Patient requested copies of imaging reports for second opinion.,C-1004,P-0789,A-011,2025-11-06T08:30:00,,open,medical_records,low,0,0
+I-1004-2,2025-11-07T13:10:00,email,follow_up,A-011,Advocate confirmed release-of-information form was submitted to records department.,C-1004,P-0789,A-011,2025-11-06T08:30:00,,open,medical_records,low,0,0
+I-1010-1,2025-11-09T12:24,phone,initial_contact,A-015,Synthetic initial contact for medical_records case.,C-1010,P-1253,A-015,2025-11-09T04:00,2025-11-11T08:28,closed,medical_records,low,0,0
+I-1010-2,2025-11-10T04:28,email,follow_up,A-015,Synthetic follow up for medical_records case.,C-1010,P-1253,A-015,2025-11-09T04:00,2025-11-11T08:28,closed,medical_records,low,0,0
+I-1011-3,2025-11-03T20:15,phone,update,A-006,Synthetic update for referral case.,C-1011,P-1524,A-012,2025-11-03T19:00,2025-11-04T03:38,closed,referral,high,1,0
+I-1011-1,2025-11-03T21:03,sms,initial_contact,A-012,Synthetic initial contact for referral case.,C-1011,P-1524,A-012,2025-11-03T19:00,2025-11-04T03:38,closed,referral,high,1,0
+I-1011-4,2025-11-03T22:42,phone,follow_up,A-006,Synthetic follow up for referral case.,C-1011,P-1524,A-012,2025-11-03T19:00,2025-11-04T03:38,closed,referral,high,1,0
+I-1011-5,2025-11-04T02:48,email,update,A-006,Synthetic update for referral case.,C-1011,P-1524,A-012,2025-11-03T19:00,2025-11-04T03:38,closed,referral,high,1,0
+I-1011-2,2025-11-04T03:08,phone,escalation,A-006,Synthetic escalation for referral case.,C-1011,P-1524,A-012,2025-11-03T19:00,2025-11-04T03:38,closed,referral,high,1,0
+I-1012-1,2025-11-06T14:32,sms,initial_contact,A-011,Synthetic initial contact for scheduling case.,C-1012,P-2223,A-011,2025-11-02T20:00,,in_progress,scheduling,low,1,0
+I-1012-2,2025-11-07T03:55,phone,escalation,A-002,Synthetic escalation for scheduling case.,C-1012,P-2223,A-011,2025-11-02T20:00,,in_progress,scheduling,low,1,0
+I-1013-1,2025-11-03T22:50,sms,initial_contact,A-007,Synthetic initial contact for referral case.,C-1013,P-1946,A-007,2025-11-03T08:00,2025-11-10T07:41,closed,referral,medium,0,0
+I-1013-2,2025-11-07T17:15,portal,update,A-007,Synthetic update for referral case.,C-1013,P-1946,A-007,2025-11-03T08:00,2025-11-10T07:41,closed,referral,medium,0,0
+I-1013-3,2025-11-09T14:59,email,follow_up,A-007,Synthetic follow up for referral case.,C-1013,P-1946,A-007,2025-11-03T08:00,2025-11-10T07:41,closed,referral,medium,0,0
+I-1014-1,2025-11-03T19:56,sms,initial_contact,A-001,Synthetic initial contact for prescription case.,C-1014,P-1166,A-001,2025-11-01T19:00,2025-11-06T14:10,closed,prescription,urgent,0,0
+I-1014-2,2025-11-04T16:02,phone,follow_up,A-001,Synthetic follow up for prescription case.,C-1014,P-1166,A-001,2025-11-01T19:00,2025-11-06T14:10,closed,prescription,urgent,0,0
+I-1014-3,2025-11-05T10:30,portal,escalation,A-001,Synthetic escalation for prescription case.,C-1014,P-1166,A-001,2025-11-01T19:00,2025-11-06T14:10,closed,prescription,urgent,0,0
+I-1015-4,2025-11-03T05:39,email,update,A-013,Synthetic update for provider_change case.,C-1015,P-2053,A-013,2025-11-02T18:00,,in_progress,provider_change,high,0,0
+I-1015-1,2025-11-03T07:03,portal,initial_contact,A-013,Synthetic initial contact for provider_change case.,C-1015,P-2053,A-013,2025-11-02T18:00,,in_progress,provider_change,high,0,0
+I-1015-3,2025-11-04T16:49,portal,closure,A-013,Synthetic closure for provider_change case.,C-1015,P-2053,A-013,2025-11-02T18:00,,in_progress,provider_change,high,0,0
+I-1015-2,2025-11-05T10:11,email,closure,A-013,Synthetic closure for provider_change case.,C-1015,P-2053,A-013,2025-11-02T18:00,,in_progress,provider_change,high,0,0
+I-1015-5,2025-11-06T15:03,sms,escalation,A-013,Synthetic escalation for provider_change case.,C-1015,P-2053,A-013,2025-11-02T18:00,,in_progress,provider_change,high,0,0
+I-1016-3,2025-11-03T10:16,phone,escalation,A-005,Synthetic escalation for prescription case.,C-1016,P-2596,A-014,2025-11-03T07:00,2025-11-04T01:52,closed,prescription,high,1,1
+I-1016-1,2025-11-03T21:46,sms,initial_contact,A-014,Synthetic initial contact for prescription case.,C-1016,P-2596,A-014,2025-11-03T07:00,2025-11-04T01:52,closed,prescription,high,1,1
+I-1016-2,2025-11-03T23:37,portal,closure,A-005,Synthetic closure for prescription case.,C-1016,P-2596,A-014,2025-11-03T07:00,2025-11-04T01:52,closed,prescription,high,1,1
+I-1017-5,2025-11-06T09:00,sms,follow_up,A-013,Synthetic follow up for prescription case.,C-1017,P-2849,A-013,2025-11-05T21:00,,in_progress,prescription,urgent,0,1
+I-1017-1,2025-11-08T05:01,portal,initial_contact,A-013,Synthetic initial contact for prescription case.,C-1017,P-2849,A-013,2025-11-05T21:00,,in_progress,prescription,urgent,0,1
+I-1017-6,2025-11-09T20:08,email,escalation,A-013,Synthetic escalation for prescription case.,C-1017,P-2849,A-013,2025-11-05T21:00,,in_progress,prescription,urgent,0,1
+I-1017-4,2025-11-10T00:30,sms,escalation,A-013,Synthetic escalation for prescription case.,C-1017,P-2849,A-013,2025-11-05T21:00,,in_progress,prescription,urgent,0,1
+I-1017-3,2025-11-10T05:19,portal,follow_up,A-013,Synthetic follow up for prescription case.,C-1017,P-2849,A-013,2025-11-05T21:00,,in_progress,prescription,urgent,0,1
+I-1017-2,2025-11-10T20:21,sms,escalation,A-013,Synthetic escalation for prescription case.,C-1017,P-2849,A-013,2025-11-05T21:00,,in_progress,prescription,urgent,0,1
+I-1018-3,2025-11-04T00:39,sms,follow_up,A-001,Synthetic follow up for scheduling case.,C-1018,P-2592,A-002,2025-11-03T21:00,2025-11-05T08:02,closed,scheduling,high,1,0
+I-1018-1,2025-11-04T22:20,portal,initial_contact,A-002,Synthetic initial contact for scheduling case.,C-1018,P-2592,A-002,2025-11-03T21:00,2025-11-05T08:02,closed,scheduling,high,1,0
+I-1018-2,2025-11-05T04:34,sms,escalation,A-001,Synthetic escalation for scheduling case.,C-1018,P-2592,A-002,2025-11-03T21:00,2025-11-05T08:02,closed,scheduling,high,1,0
+I-1019-1,2025-11-02T00:48,portal,initial_contact,A-004,Synthetic initial contact for billing case.,C-1019,P-1592,A-004,2025-11-01T22:00,2025-11-05T05:26,closed,billing,medium,0,0
+I-1019-2,2025-11-04T15:03,phone,update,A-004,Synthetic update for billing case.,C-1019,P-1592,A-004,2025-11-01T22:00,2025-11-05T05:26,closed,billing,medium,0,0
+I-1019-3,2025-11-05T01:46,email,update,A-004,Synthetic update for billing case.,C-1019,P-1592,A-004,2025-11-01T22:00,2025-11-05T05:26,closed,billing,medium,0,0
+I-1020-2,2025-11-12T09:38,email,closure,A-005,Synthetic closure for insurance_coverage case.,C-1020,P-1546,A-008,2025-11-11T00:00,2025-11-17T16:24,closed,insurance_coverage,high,1,0
+I-1020-3,2025-11-13T12:25,sms,follow_up,A-005,Synthetic follow up for insurance_coverage case.,C-1020,P-1546,A-008,2025-11-11T00:00,2025-11-17T16:24,closed,insurance_coverage,high,1,0
+I-1020-1,2025-11-17T03:50,email,initial_contact,A-008,Synthetic initial contact for insurance_coverage case.,C-1020,P-1546,A-008,2025-11-11T00:00,2025-11-17T16:24,closed,insurance_coverage,high,1,0
+I-1021-2,2025-11-08T01:48,portal,follow_up,A-007,Synthetic follow up for insurance_coverage case.,C-1021,P-2433,A-006,2025-11-06T13:00,2025-11-13T06:38,closed,insurance_coverage,high,1,1
+I-1021-3,2025-11-09T23:55,sms,follow_up,A-007,Synthetic follow up for insurance_coverage case.,C-1021,P-2433,A-006,2025-11-06T13:00,2025-11-13T06:38,closed,insurance_coverage,high,1,1
+I-1021-1,2025-11-12T11:12,phone,initial_contact,A-006,Synthetic initial contact for insurance_coverage case.,C-1021,P-2433,A-006,2025-11-06T13:00,2025-11-13T06:38,closed,insurance_coverage,high,1,1
+I-1022-1,2025-11-06T12:11,email,initial_contact,A-006,Synthetic initial contact for billing case.,C-1022,P-2471,A-006,2025-11-05T19:00,2025-11-08T09:47,closed,billing,medium,0,1
+I-1022-2,2025-11-06T19:51,phone,update,A-006,Synthetic update for billing case.,C-1022,P-2471,A-006,2025-11-05T19:00,2025-11-08T09:47,closed,billing,medium,0,1
+I-1022-3,2025-11-07T05:16,email,update,A-006,Synthetic update for billing case.,C-1022,P-2471,A-006,2025-11-05T19:00,2025-11-08T09:47,closed,billing,medium,0,1
+I-1022-6,2025-11-07T09:40,portal,escalation,A-006,Synthetic escalation for billing case.,C-1022,P-2471,A-006,2025-11-05T19:00,2025-11-08T09:47,closed,billing,medium,0,1
+I-1022-4,2025-11-08T08:15,portal,update,A-006,Synthetic update for billing case.,C-1022,P-2471,A-006,2025-11-05T19:00,2025-11-08T09:47,closed,billing,medium,0,1
+I-1022-5,2025-11-08T08:27,phone,closure,A-006,Synthetic closure for billing case.,C-1022,P-2471,A-006,2025-11-05T19:00,2025-11-08T09:47,closed,billing,medium,0,1
+I-1023-2,2025-11-06T01:47,sms,follow_up,A-009,Synthetic follow up for scheduling case.,C-1023,P-1314,A-009,2025-11-03T17:00,2025-11-06T22:10,closed,scheduling,high,0,0
+I-1023-1,2025-11-06T05:11,phone,initial_contact,A-009,Synthetic initial contact for scheduling case.,C-1023,P-1314,A-009,2025-11-03T17:00,2025-11-06T22:10,closed,scheduling,high,0,0
+I-1024-6,2025-11-11T14:10,portal,closure,A-003,Synthetic closure for medical_records case.,C-1024,P-2317,A-013,2025-11-09T17:00,,open,medical_records,medium,1,0
+I-1024-2,2025-11-12T20:21,email,escalation,A-003,Synthetic escalation for medical_records case.,C-1024,P-2317,A-013,2025-11-09T17:00,,open,medical_records,medium,1,0
+I-1024-1,2025-11-13T07:18,portal,initial_contact,A-013,Synthetic initial contact for medical_records case.,C-1024,P-2317,A-013,2025-11-09T17:00,,open,medical_records,medium,1,0
+I-1024-3,2025-11-13T14:00,phone,follow_up,A-003,Synthetic follow up for medical_records case.,C-1024,P-2317,A-013,2025-11-09T17:00,,open,medical_records,medium,1,0
+I-1024-5,2025-11-14T05:15,phone,follow_up,A-003,Synthetic follow up for medical_records case.,C-1024,P-2317,A-013,2025-11-09T17:00,,open,medical_records,medium,1,0
+I-1024-4,2025-11-14T11:15,sms,update,A-003,Synthetic update for medical_records case.,C-1024,P-2317,A-013,2025-11-09T17:00,,open,medical_records,medium,1,0
+I-1025-1,2025-11-03T17:40,phone,initial_contact,A-008,Synthetic initial contact for insurance_coverage case.,C-1025,P-2226,A-008,2025-11-02T06:00,2025-11-07T17:32,closed,insurance_coverage,urgent,1,0
+I-1025-5,2025-11-05T11:12,phone,escalation,A-004,Synthetic escalation for insurance_coverage case.,C-1025,P-2226,A-008,2025-11-02T06:00,2025-11-07T17:32,closed,insurance_coverage,urgent,1,0
+I-1025-2,2025-11-05T16:07,portal,update,A-004,Synthetic update for insurance_coverage case.,C-1025,P-2226,A-008,2025-11-02T06:00,2025-11-07T17:32,closed,insurance_coverage,urgent,1,0
+I-1025-4,2025-11-06T09:46,email,follow_up,A-004,Synthetic follow up for insurance_coverage case.,C-1025,P-2226,A-008,2025-11-02T06:00,2025-11-07T17:32,closed,insurance_coverage,urgent,1,0
+I-1025-3,2025-11-06T14:38,phone,update,A-004,Synthetic update for insurance_coverage case.,C-1025,P-2226,A-008,2025-11-02T06:00,2025-11-07T17:32,closed,insurance_coverage,urgent,1,0
+I-1026-3,2025-11-08T21:10,email,follow_up,A-013,Synthetic follow up for insurance_coverage case.,C-1026,P-1853,A-011,2025-11-08T06:00,,open,insurance_coverage,urgent,1,0
+I-1026-2,2025-11-08T23:54,portal,closure,A-013,Synthetic closure for insurance_coverage case.,C-1026,P-1853,A-011,2025-11-08T06:00,,open,insurance_coverage,urgent,1,0
+I-1026-1,2025-11-10T06:54,sms,initial_contact,A-011,Synthetic initial contact for insurance_coverage case.,C-1026,P-1853,A-011,2025-11-08T06:00,,open,insurance_coverage,urgent,1,0
+I-1027-1,2025-11-02T19:36,email,initial_contact,A-005,Synthetic initial contact for referral case.,C-1027,P-1999,A-005,2025-11-01T16:00,2025-11-07T19:53,closed,referral,low,0,1
+I-1027-2,2025-11-05T01:42,sms,update,A-005,Synthetic update for referral case.,C-1027,P-1999,A-005,2025-11-01T16:00,2025-11-07T19:53,closed,referral,low,0,1
+I-1027-3,2025-11-05T03:55,phone,update,A-005,Synthetic update for referral case.,C-1027,P-1999,A-005,2025-11-01T16:00,2025-11-07T19:53,closed,referral,low,0,1
+I-1027-5,2025-11-05T17:53,phone,follow_up,A-005,Synthetic follow up for referral case.,C-1027,P-1999,A-005,2025-11-01T16:00,2025-11-07T19:53,closed,referral,low,0,1
+I-1027-4,2025-11-06T13:55,portal,closure,A-005,Synthetic closure for referral case.,C-1027,P-1999,A-005,2025-11-01T16:00,2025-11-07T19:53,closed,referral,low,0,1
+I-1028-5,2025-11-06T20:17,phone,update,A-013,Synthetic update for insurance_coverage case.,C-1028,P-2820,A-013,2025-11-04T08:00,,in_progress,insurance_coverage,urgent,0,0
+I-1028-2,2025-11-07T00:07,sms,update,A-013,Synthetic update for insurance_coverage case.,C-1028,P-2820,A-013,2025-11-04T08:00,,in_progress,insurance_coverage,urgent,0,0
+I-1028-1,2025-11-07T06:23,email,initial_contact,A-013,Synthetic initial contact for insurance_coverage case.,C-1028,P-2820,A-013,2025-11-04T08:00,,in_progress,insurance_coverage,urgent,0,0
+I-1028-4,2025-11-08T18:15,phone,escalation,A-013,Synthetic escalation for insurance_coverage case.,C-1028,P-2820,A-013,2025-11-04T08:00,,in_progress,insurance_coverage,urgent,0,0
+I-1028-3,2025-11-09T00:23,sms,escalation,A-013,Synthetic escalation for insurance_coverage case.,C-1028,P-2820,A-013,2025-11-04T08:00,,in_progress,insurance_coverage,urgent,0,0
+I-1029-2,2025-11-05T12:30,sms,escalation,A-014,Synthetic escalation for prescription case.,C-1029,P-2714,A-003,2025-11-04T08:00,2025-11-07T10:03,closed,prescription,urgent,1,0
+I-1029-1,2025-11-06T00:08,portal,initial_contact,A-003,Synthetic initial contact for prescription case.,C-1029,P-2714,A-003,2025-11-04T08:00,2025-11-07T10:03,closed,prescription,urgent,1,0
+I-1029-3,2025-11-06T09:21,email,closure,A-014,Synthetic closure for prescription case.,C-1029,P-2714,A-003,2025-11-04T08:00,2025-11-07T10:03,closed,prescription,urgent,1,0
+I-1030-2,2025-11-12T23:46,phone,follow_up,A-014,Synthetic follow up for billing case.,C-1030,P-2312,A-003,2025-11-10T23:00,2025-11-17T16:26,closed,billing,medium,1,1
+I-1030-1,2025-11-16T16:52,phone,initial_contact,A-003,Synthetic initial contact for billing case.,C-1030,P-2312,A-003,2025-11-10T23:00,2025-11-17T16:26,closed,billing,medium,1,1
+I-1031-2,2025-11-06T21:39,email,closure,A-015,Synthetic closure for scheduling case.,C-1031,P-2709,A-015,2025-11-06T01:00,2025-11-09T03:00,closed,scheduling,urgent,1,1
+I-1031-1,2025-11-07T08:43,portal,initial_contact,A-015,Synthetic initial contact for scheduling case.,C-1031,P-2709,A-015,2025-11-06T01:00,2025-11-09T03:00,closed,scheduling,urgent,1,1
+I-1031-3,2025-11-07T17:32,email,update,A-015,Synthetic update for scheduling case.,C-1031,P-2709,A-015,2025-11-06T01:00,2025-11-09T03:00,closed,scheduling,urgent,1,1
+I-1032-4,2025-11-03T23:38,portal,closure,A-008,Synthetic closure for referral case.,C-1032,P-2628,A-003,2025-11-03T22:00,2025-11-04T07:05,closed,referral,high,1,0
+I-1032-2,2025-11-04T04:54,email,closure,A-008,Synthetic closure for referral case.,C-1032,P-2628,A-003,2025-11-03T22:00,2025-11-04T07:05,closed,referral,high,1,0
+I-1032-1,2025-11-04T06:05,sms,initial_contact,A-003,Synthetic initial contact for referral case.,C-1032,P-2628,A-003,2025-11-03T22:00,2025-11-04T07:05,closed,referral,high,1,0
+I-1032-3,2025-11-04T06:33,sms,update,A-008,Synthetic update for referral case.,C-1032,P-2628,A-003,2025-11-03T22:00,2025-11-04T07:05,closed,referral,high,1,0
+I-1033-3,2025-11-09T13:20,email,follow_up,A-007,Synthetic follow up for provider_change case.,C-1033,P-2590,A-007,2025-11-08T10:00,,open,provider_change,medium,0,0
+I-1033-2,2025-11-10T02:14,email,escalation,A-007,Synthetic escalation for provider_change case.,C-1033,P-2590,A-007,2025-11-08T10:00,,open,provider_change,medium,0,0
+I-1033-4,2025-11-10T03:52,email,escalation,A-007,Synthetic escalation for provider_change case.,C-1033,P-2590,A-007,2025-11-08T10:00,,open,provider_change,medium,0,0
+I-1033-1,2025-11-12T12:46,email,initial_contact,A-007,Synthetic initial contact for provider_change case.,C-1033,P-2590,A-007,2025-11-08T10:00,,open,provider_change,medium,0,0
+I-1034-2,2025-11-03T18:13,phone,follow_up,A-004,Synthetic follow up for medical_records case.,C-1034,P-2185,A-004,2025-11-03T18:00,2025-11-04T00:00,closed,medical_records,low,0,0
+I-1034-3,2025-11-03T20:12,phone,escalation,A-004,Synthetic escalation for medical_records case.,C-1034,P-2185,A-004,2025-11-03T18:00,2025-11-04T00:00,closed,medical_records,low,0,0
+I-1034-1,2025-11-03T20:15,email,initial_contact,A-004,Synthetic initial contact for medical_records case.,C-1034,P-2185,A-004,2025-11-03T18:00,2025-11-04T00:00,closed,medical_records,low,0,0
+I-1034-4,2025-11-03T20:43,email,escalation,A-004,Synthetic escalation for medical_records case.,C-1034,P-2185,A-004,2025-11-03T18:00,2025-11-04T00:00,closed,medical_records,low,0,0
+I-1034-5,2025-11-03T23:57,email,escalation,A-004,Synthetic escalation for medical_records case.,C-1034,P-2185,A-004,2025-11-03T18:00,2025-11-04T00:00,closed,medical_records,low,0,0
+I-1035-1,2025-11-08T05:03,phone,initial_contact,A-013,Synthetic initial contact for scheduling case.,C-1035,P-1884,A-013,2025-11-06T17:00,2025-11-11T21:34,closed,scheduling,medium,1,0
+I-1035-5,2025-11-10T06:31,phone,update,A-004,Synthetic update for scheduling case.,C-1035,P-1884,A-013,2025-11-06T17:00,2025-11-11T21:34,closed,scheduling,medium,1,0
+I-1035-3,2025-11-10T08:50,portal,escalation,A-004,Synthetic escalation for scheduling case.,C-1035,P-1884,A-013,2025-11-06T17:00,2025-11-11T21:34,closed,scheduling,medium,1,0
+I-1035-4,2025-11-11T08:38,portal,follow_up,A-004,Synthetic follow up for scheduling case.,C-1035,P-1884,A-013,2025-11-06T17:00,2025-11-11T21:34,closed,scheduling,medium,1,0
+I-1035-2,2025-11-11T18:12,email,closure,A-004,Synthetic closure for scheduling case.,C-1035,P-1884,A-013,2025-11-06T17:00,2025-11-11T21:34,closed,scheduling,medium,1,0
+I-1036-1,2025-11-02T20:54,sms,initial_contact,A-003,Synthetic initial contact for insurance_coverage case.,C-1036,P-1053,A-003,2025-11-02T20:00,2025-11-04T11:17,closed,insurance_coverage,medium,0,0
+I-1036-3,2025-11-03T02:43,email,escalation,A-003,Synthetic escalation for insurance_coverage case.,C-1036,P-1053,A-003,2025-11-02T20:00,2025-11-04T11:17,closed,insurance_coverage,medium,0,0
+I-1036-2,2025-11-03T08:25,portal,follow_up,A-003,Synthetic follow up for insurance_coverage case.,C-1036,P-1053,A-003,2025-11-02T20:00,2025-11-04T11:17,closed,insurance_coverage,medium,0,0
+I-1036-6,2025-11-03T23:05,portal,closure,A-003,Synthetic closure for insurance_coverage case.,C-1036,P-1053,A-003,2025-11-02T20:00,2025-11-04T11:17,closed,insurance_coverage,medium,0,0
+I-1036-5,2025-11-04T07:35,phone,closure,A-003,Synthetic closure for insurance_coverage case.,C-1036,P-1053,A-003,2025-11-02T20:00,2025-11-04T11:17,closed,insurance_coverage,medium,0,0
+I-1036-4,2025-11-04T08:57,sms,escalation,A-003,Synthetic escalation for insurance_coverage case.,C-1036,P-1053,A-003,2025-11-02T20:00,2025-11-04T11:17,closed,insurance_coverage,medium,0,0
+I-1037-3,2025-11-04T20:14,phone,follow_up,A-007,Synthetic follow up for scheduling case.,C-1037,P-1035,A-013,2025-11-04T08:00,2025-11-08T10:49,closed,scheduling,medium,1,0
+I-1037-2,2025-11-04T23:09,phone,update,A-007,Synthetic update for scheduling case.,C-1037,P-1035,A-013,2025-11-04T08:00,2025-11-08T10:49,closed,scheduling,medium,1,0
+I-1037-4,2025-11-05T21:38,email,escalation,A-007,Synthetic escalation for scheduling case.,C-1037,P-1035,A-013,2025-11-04T08:00,2025-11-08T10:49,closed,scheduling,medium,1,0
+I-1037-1,2025-11-07T03:25,portal,initial_contact,A-013,Synthetic initial contact for scheduling case.,C-1037,P-1035,A-013,2025-11-04T08:00,2025-11-08T10:49,closed,scheduling,medium,1,0
+I-1037-5,2025-11-07T08:55,portal,escalation,A-007,Synthetic escalation for scheduling case.,C-1037,P-1035,A-013,2025-11-04T08:00,2025-11-08T10:49,closed,scheduling,medium,1,0
+I-1038-4,2025-11-10T16:48,phone,follow_up,A-010,Synthetic follow up for referral case.,C-1038,P-2832,A-010,2025-11-09T03:00,,open,referral,low,0,1
+I-1038-3,2025-11-11T04:41,portal,update,A-010,Synthetic update for referral case.,C-1038,P-2832,A-010,2025-11-09T03:00,,open,referral,low,0,1
+I-1038-2,2025-11-11T14:04,sms,closure,A-010,Synthetic closure for referral case.,C-1038,P-2832,A-010,2025-11-09T03:00,,open,referral,low,0,1
+I-1038-1,2025-11-11T20:41,portal,initial_contact,A-010,Synthetic initial contact for referral case.,C-1038,P-2832,A-010,2025-11-09T03:00,,open,referral,low,0,1
+I-1039-5,2025-11-07T10:18,sms,follow_up,A-002,Synthetic follow up for billing case.,C-1039,P-2152,A-002,2025-11-07T09:00,2025-11-08T11:45,closed,billing,medium,0,1
+I-1039-2,2025-11-07T14:44,email,escalation,A-002,Synthetic escalation for billing case.,C-1039,P-2152,A-002,2025-11-07T09:00,2025-11-08T11:45,closed,billing,medium,0,1
+I-1039-3,2025-11-07T18:14,phone,escalation,A-002,Synthetic escalation for billing case.,C-1039,P-2152,A-002,2025-11-07T09:00,2025-11-08T11:45,closed,billing,medium,0,1
+I-1039-4,2025-11-08T02:55,portal,closure,A-002,Synthetic closure for billing case.,C-1039,P-2152,A-002,2025-11-07T09:00,2025-11-08T11:45,closed,billing,medium,0,1
+I-1039-1,2025-11-08T04:09,sms,initial_contact,A-002,Synthetic initial contact for billing case.,C-1039,P-2152,A-002,2025-11-07T09:00,2025-11-08T11:45,closed,billing,medium,0,1
+I-1040-3,2025-11-05T10:30,email,follow_up,A-014,Synthetic follow up for scheduling case.,C-1040,P-1144,A-011,2025-11-04T20:00,2025-11-08T20:41,closed,scheduling,medium,1,1
+I-1040-4,2025-11-05T14:23,phone,update,A-014,Synthetic update for scheduling case.,C-1040,P-1144,A-011,2025-11-04T20:00,2025-11-08T20:41,closed,scheduling,medium,1,1
+I-1040-1,2025-11-06T02:04,portal,initial_contact,A-011,Synthetic initial contact for scheduling case.,C-1040,P-1144,A-011,2025-11-04T20:00,2025-11-08T20:41,closed,scheduling,medium,1,1
+I-1040-5,2025-11-06T05:49,email,escalation,A-014,Synthetic escalation for scheduling case.,C-1040,P-1144,A-011,2025-11-04T20:00,2025-11-08T20:41,closed,scheduling,medium,1,1
+I-1040-2,2025-11-08T10:20,portal,escalation,A-014,Synthetic escalation for scheduling case.,C-1040,P-1144,A-011,2025-11-04T20:00,2025-11-08T20:41,closed,scheduling,medium,1,1

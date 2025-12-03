@@ -1,0 +1,393 @@
+[
+{
+  "case_id": "C-1001",
+  "patient_id": "P-0501",
+  "advocate_id": "A-001",
+  "opened_at": "2025-11-01T09:15:00",
+  "closed_at": "2025-11-05T14:40:00",
+  "status": "closed",
+  "issue_type": "billing",
+  "priority": "high",
+  "reassigned_flag": 0,
+  "reopen_count": 0,
+  "interactions": [
+    {
+      "interaction_id": "I-1001-1",
+      "timestamp": "2025-11-01T09:20:00",
+      "channel": "phone",
+      "interaction_type": "initial_contact",
+      "advocate_id_at_time": "A-001",
+      "notes": "Patient called about an unexpected charge on recent hospital bill."
+    },
+    {
+      "interaction_id": "I-1001-2",
+      "timestamp": "2025-11-02T10:05:00",
+      "channel": "portal",
+      "interaction_type": "follow_up",
+      "advocate_id_at_time": "A-001",
+      "notes": "Advocate requested itemized statement from billing department and updated patient via portal message."
+    },
+    {
+      "interaction_id": "I-1001-3",
+      "timestamp": "2025-11-04T16:30:00",
+      "channel": "phone",
+      "interaction_type": "update",
+      "advocate_id_at_time": "A-001",
+      "notes": "Explained corrected charges and confirmed partial adjustment with patient."
+    },
+    {
+      "interaction_id": "I-1001-4",
+      "timestamp": "2025-11-05T14:30:00",
+      "channel": "phone",
+      "interaction_type": "closure",
+      "advocate_id_at_time": "A-001",
+      "notes": "Patient confirmed understanding of final bill and agreed to close the case."
+    }
+  ]
+},
+
+{
+  "case_id": "C-1002",
+  "patient_id": "P-0502",
+  "advocate_id": "A-002",
+  "opened_at": "2025-10-01T09:15:00",
+  "closed_at": "2025-10-05T14:40:00",
+  "status": "closed",
+  "issue_type": "billing",
+  "priority": "high",
+  "reassigned_flag": 0,
+  "reopen_count": 0,
+  "interactions": [
+    {
+      "interaction_id": "I-1002-1",
+      "timestamp": "2025-10-01T09:20:00",
+      "channel": "phone",
+      "interaction_type": "initial_contact",
+      "advocate_id_at_time": "A-002",
+      "notes": "Patient called about an unexpected charge on recent hospital bill."
+    },
+    {
+      "interaction_id": "I-1002-2",
+      "timestamp": "2025-10-02T10:05:00",
+      "channel": "portal",
+      "interaction_type": "follow_up",
+      "advocate_id_at_time": "A-002",
+      "notes": "Advocate requested itemized statement from billing department and updated patient via portal message."
+    },
+    {
+      "interaction_id": "I-1002-3",
+      "timestamp": "2025-10-04T16:30:00",
+      "channel": "phone",
+      "interaction_type": "update",
+      "advocate_id_at_time": "A-002",
+      "notes": "Explained corrected charges and confirmed partial adjustment with patient."
+    },
+    {
+      "interaction_id": "I-1002-4",
+      "timestamp": "2025-10-05T14:30:00",
+      "channel": "phone",
+      "interaction_type": "closure",
+      "advocate_id_at_time": "A-002",
+      "notes": "Patient confirmed understanding of final bill and agreed to close the case."
+    }
+  ]
+},
+{
+    "case_id": "C-1003",
+  "patient_id": "P-0503",
+  "advocate_id": "A-003",
+  "opened_at": "2025-10-02T09:15:00",
+  "closed_at": "2025-10-06T14:40:00",
+  "status": "closed",
+  "issue_type": "billing",
+  "priority": "high",
+  "reassigned_flag": 0,
+  "reopen_count": 0,
+  "interactions": [
+    {
+      "interaction_id": "I-1003-1",
+      "timestamp": "2025-10-02T09:20:00",
+      "channel": "phone",
+      "interaction_type": "initial_contact",
+      "advocate_id_at_time": "A-003",
+      "notes": "Patient called about an unexpected charge on recent hospital bill."
+    },
+    {
+      "interaction_id": "I-1003-2",
+      "timestamp": "2025-10-03T10:05:00",
+      "channel": "portal",
+      "interaction_type": "follow_up",
+      "advocate_id_at_time": "A-003",
+      "notes": "Advocate requested itemized statement from billing department and updated patient via portal message."
+    },
+    {
+      "interaction_id": "I-1003-3",
+      "timestamp": "2025-10-04T16:30:00",
+      "channel": "phone",
+      "interaction_type": "update",
+      "advocate_id_at_time": "A-003",
+      "notes": "Explained corrected charges and confirmed partial adjustment with patient."
+    },
+    {
+      "interaction_id": "I-1003-4",
+      "timestamp": "2025-10-06T14:30:00",
+      "channel": "phone",
+      "interaction_type": "closure",
+      "advocate_id_at_time": "A-003",
+      "notes": "Patient confirmed understanding of final bill and agreed to close the case."
+    }
+  ]
+ },
+{
+  "case_id": "C-1004",
+  "patient_id": "P-0504",
+  "advocate_id": "A-004",
+  "opened_at": "2025-10-01T09:15:00",
+  "closed_at": "2025-10-05T14:40:00",
+  "status": "closed",
+  "issue_type": "billing",
+  "priority": "high",
+  "reassigned_flag": 0,
+  "reopen_count": 0,
+  "interactions": [
+    {
+      "interaction_id": "I-1004-1",
+      "timestamp": "2025-10-01T09:20:00",
+      "channel": "phone",
+      "interaction_type": "initial_contact",
+      "advocate_id_at_time": "A-004",
+      "notes": "Patient called about an unexpected charge on recent hospital bill."
+    },
+    {
+      "interaction_id": "I-1004-2",
+      "timestamp": "2025-10-02T10:05:00",
+      "channel": "portal",
+      "interaction_type": "follow_up",
+      "advocate_id_at_time": "A-004",
+      "notes": "Advocate requested itemized statement from billing department and updated patient via portal message."
+    },
+    {
+      "interaction_id": "I-1004-3",
+      "timestamp": "2025-10-04T16:30:00",
+      "channel": "phone",
+      "interaction_type": "update",
+      "advocate_id_at_time": "A-004",
+      "notes": "Explained corrected charges and confirmed partial adjustment with patient."
+    },
+    {
+      "interaction_id": "I-1004-4",
+      "timestamp": "2025-10-05T14:30:00",
+      "channel": "phone",
+      "interaction_type": "closure",
+      "advocate_id_at_time": "A-004",
+      "notes": "Patient confirmed understanding of final bill and agreed to close the case."
+    }
+  ]
+ },
+{
+  "case_id": "C-1005",
+  "patient_id": "P-0505",
+  "advocate_id": "A-005",
+  "opened_at": "2025-10-07T09:15:00",
+  "closed_at": "2025-10-09T14:40:00",
+  "status": "closed",
+  "issue_type": "billing",
+  "priority": "medium",
+  "reassigned_flag": 0,
+  "reopen_count": 0,
+  "interactions": [
+    {
+      "interaction_id": "I-1005-1",
+      "timestamp": "2025-10-07T09:20:00",
+      "channel": "phone",
+      "interaction_type": "initial_contact",
+      "advocate_id_at_time": "A-005",
+      "notes": "Patient called about an unexpected charge on recent hospital bill."
+    },
+    {
+      "interaction_id": "I-1005-2",
+      "timestamp": "2025-10-08T10:05:00",
+      "channel": "portal",
+      "interaction_type": "follow_up",
+      "advocate_id_at_time": "A-005",
+      "notes": "Advocate requested itemized statement from billing department and updated patient via portal message."
+    },
+    {
+      "interaction_id": "I-1005-3",
+      "timestamp": "2025-10-08T16:30:00",
+      "channel": "phone",
+      "interaction_type": "update",
+      "advocate_id_at_time": "A-005",
+      "notes": "Explained corrected charges and confirmed partial adjustment with patient."
+    },
+    {
+      "interaction_id": "I-1005-4",
+      "timestamp": "2025-10-08T14:30:00",
+      "channel": "phone",
+      "interaction_type": "closure",
+      "advocate_id_at_time": "A-005",
+      "notes": "Patient confirmed understanding of final bill and agreed to close the case."
+    }
+  ]
+},
+{  
+   "case_id": "C-2001",
+  "patient_id": "P-0511",
+  "advocate_id": "A-101",
+  "opened_at": "2025-09-01T09:15:00",
+  "closed_at": "2025-09-05T14:40:00",
+  "status": "closed",
+  "issue_type": "insurance_coverage",
+  "priority": "high",
+  "reassigned_flag": 1,
+  "reopen_count": 0,
+  "interactions": [
+    {
+      "interaction_id": "I-2001-1",
+      "timestamp": "2025-09-01T09:20:00",
+      "channel": "phone",
+      "interaction_type": "initial_contact",
+      "advocate_id_at_time": "A-101",
+      "notes": "Patient called about an unexpected charge on recent hospital bill."
+    },
+    {
+      "interaction_id": "I-2001-2",
+      "timestamp": "2025-09-02T10:05:00",
+      "channel": "portal",
+      "interaction_type": "follow_up",
+      "advocate_id_at_time": "A-101",
+      "notes": "Advocate requested itemized statement from billing department and updated patient via portal message."
+    },
+    {
+      "interaction_id": "I-2001-3",
+      "timestamp": "2025-09-04T16:30:00",
+      "channel": "email",
+      "interaction_type": "update",
+      "advocate_id_at_time": "A-102",
+      "notes": "Explained corrected charges and confirmed partial adjustment with patient via mail."
+    },
+    {
+      "interaction_id": "I-2001-4",
+      "timestamp": "2025-09-05T14:30:00",
+      "channel": "phone",
+      "interaction_type": "closure",
+      "advocate_id_at_time": "A-102",
+      "notes": "Patient confirmed understanding of final bill and agreed to close the case."
+    }
+  ]
+},
+{
+  "case_id": "C-1002",
+  "patient_id": "P-0310",
+  "advocate_id": "A-009",
+  "opened_at": "2025-11-03T11:05:00",
+  "closed_at": null,
+  "status": "in_progress",
+  "issue_type": "scheduling",
+  "priority": "medium",
+  "reassigned_flag": 1,
+  "reopen_count": 1,
+  "interactions": [
+    {
+      "interaction_id": "I-1002-1",
+      "timestamp": "2025-11-03T11:10:00",
+      "channel": "portal",
+      "interaction_type": "initial_contact",
+      "advocate_id_at_time": "A-004",
+      "notes": "Patient requested earlier appointment for post-surgery follow-up."
+    },
+    {
+      "interaction_id": "I-1002-2",
+      "timestamp": "2025-11-03T15:45:00",
+      "channel": "phone",
+      "interaction_type": "follow_up",
+      "advocate_id_at_time": "A-009",
+      "notes": "New advocate introduced, confirmed appointment preferences and waitlist options."
+    },
+    {
+      "interaction_id": "I-1002-3",
+      "timestamp": "2025-11-05T09:20:00",
+      "channel": "sms",
+      "interaction_type": "update",
+      "advocate_id_at_time": "A-009",
+      "notes": "Notified patient about a tentative slot opening and pending confirmation."
+    }
+  ]
+},
+{
+  "case_id": "C-1003",
+  "patient_id": "P-0201",
+  "advocate_id": "A-003",
+  "opened_at": "2025-10-28T14:10:00",
+  "closed_at": "2025-11-02T10:05:00",
+  "status": "closed",
+  "issue_type": "insurance_coverage",
+  "priority": "urgent",
+  "reassigned_flag": 0,
+  "reopen_count": 0,
+  "interactions": [
+    {
+      "interaction_id": "I-1003-1",
+      "timestamp": "2025-10-28T14:15:00",
+      "channel": "phone",
+      "interaction_type": "initial_contact",
+      "advocate_id_at_time": "A-003",
+      "notes": "Patient reported denial of coverage for imaging study."
+    },
+    {
+      "interaction_id": "I-1003-2",
+      "timestamp": "2025-10-29T09:00:00",
+      "channel": "email",
+      "interaction_type": "follow_up",
+      "advocate_id_at_time": "A-003",
+      "notes": "Advocate requested denial letter and prior authorization details."
+    },
+    {
+      "interaction_id": "I-1003-3",
+      "timestamp": "2025-10-31T16:50:00",
+      "channel": "phone",
+      "interaction_type": "escalation",
+      "advocate_id_at_time": "A-003",
+      "notes": "Coordinated three-way call with insurer and clinic to review medical necessity."
+    },
+    {
+      "interaction_id": "I-1003-4",
+      "timestamp": "2025-11-02T09:45:00",
+      "channel": "portal",
+      "interaction_type": "closure",
+      "advocate_id_at_time": "A-003",
+      "notes": "Patient informed that coverage was approved on appeal and agreed to close case."
+    }
+  ]
+},
+{
+  "case_id": "C-1004",
+  "patient_id": "P-0789",
+  "advocate_id": "A-011",
+  "opened_at": "2025-11-06T08:30:00",
+  "closed_at": null,
+  "status": "open",
+  "issue_type": "medical_records",
+  "priority": "low",
+  "reassigned_flag": 0,
+  "reopen_count": 0,
+  "interactions": [
+    {
+      "interaction_id": "I-1004-1",
+      "timestamp": "2025-11-06T08:35:00",
+      "channel": "portal",
+      "interaction_type": "initial_contact",
+      "advocate_id_at_time": "A-011",
+      "notes": "Patient requested copies of imaging reports for second opinion."
+    },
+    {
+      "interaction_id": "I-1004-2",
+      "timestamp": "2025-11-07T13:10:00",
+      "channel": "email",
+      "interaction_type": "follow_up",
+      "advocate_id_at_time": "A-011",
+      "notes": "Advocate confirmed release-of-information form was submitted to records department."
+    }
+  ]
+}
+]
